@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Jerry, a full-stack software developer 🚀 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm COBRA, a full-stack software developer 🚀 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on [HazeV - AltV Roleplay Framework](https://discord.gg/e63BKXqjaZ)  
