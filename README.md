@@ -1,7 +1,7 @@
 ### <div align="center">I'm COBRA, a full-stack software developer 🚀 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [HazeV - AltV Roleplay Framework](https://discord.gg/e63BKXqjaZ)  
+- 🔭 I’m currently working on an Clean AltV Roleplay Framework  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
