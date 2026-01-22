@@ -87,12 +87,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cxbradevelopment&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>   
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31maet7jeodiyvnfwo4rcvytdmem&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CXBRADEVELOPMENT&&style=flat-square" align="center" />
