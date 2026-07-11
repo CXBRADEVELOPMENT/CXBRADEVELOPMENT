@@ -1,7 +1,7 @@
 ### <div align="center">I'm COBRA, a full-stack software developer 🚀 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on an RageMP Framework  
+- 🔭 I’m currently working on an FiveM "RageMP" Style Framework  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
