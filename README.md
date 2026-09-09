@@ -88,12 +88,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CXBRADEVELOPMENT&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
+</div>
 
 ----
